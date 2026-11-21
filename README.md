@@ -1,5 +1,5 @@
 # The Racing Drone
-> Total Cost to Manufacture: 398 USD
+> Total Cost to Manufacture: 575 USD
 
 ## About My Project
 
