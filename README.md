@@ -27,9 +27,12 @@ The Reason I made this goes back many years to when I was a young kid (around 6 
 
 
 
-## Key Features
-** Key Features ** 
+### Key Features
+  Key Features 
 - High quality FPV Camera
 - Custom Single Hand ESP Controller
 - Motion Assisted Dynamic Tiltable Screen
 - GPS Telemetry and Safety Functions
+
+#### Extra Details
+The receiver that is being used in the project can also be used as a transmitter when libraries are added. The receiver has full capability to work as a transmitter and will work seamlessly with the rest of the sytem.
