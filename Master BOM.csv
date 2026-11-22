@@ -35,7 +35,7 @@ Drone Controller - Screen Housing,116.8 cm³,SLA (Resin),9600 Resin ,10.63,,,,,,
 Drone Controller - PCB Cover,3.32 cm³,SLA (Resin),LEDO 6060 Resin ,0.43,,,,,,,
 Drone Controller - Servo Comver,11.41 cm³,SLA (Resin),9600 Resin ,1.04,,,,,,,
 ,,,,,,Cost of Controller 3D printing USD,Cost of Controller Manufacotring (excluding 3D printing),Total Cost of Controller USD,Total Cost of Project USD,Total Shipping Cost for Drone and Controller ,
-,,,,,,23.49,114.67,138.16,#VALUE!,Drone - Camera box with gear mount ,
+,,,,,,23.49,114.67,138.16,521.64,70.36,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
@@ -76,7 +76,7 @@ Distance Sensor ,Distance Unit (VL53L1X),2,17.9,https://shop.m5stack.com/product
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 Part,Volume of part ,3D technology ,Filament ,Cost,,,Cost of 3D printing Drone USD,Cost of Drone PCB + Components manufacuting ,Total Cost of Drone USD,Total Cost of Project USD,Part
-Drone - Frame (no roof or Camera mount),110.52 cm³,SLS(Nylon),3201PA-F Nylon,27.3,,,34.23,278.89,313.12,#VALUE!,Drone - Frame (no roof or Camera mount)
+Drone - Frame (no roof or Camera mount),110.52 cm³,SLS(Nylon),3201PA-F Nylon,27.3,,,34.23,278.89,313.12,521.64,70.36
 Drone - Roof,15.24 cm³,SLS(Nylon),3201PA-F Nylon,3.76,,,,,,,Drone - Roof
 Drone - Camera Mounting part (2),0.81 cm³ ,SLS(Nylon),3201PA-F Nylon,2.1,,,,,,,Drone - Camera Mounting part (2)
 Drone - Camera box with gear mount ,4.34 cm³,SLS(Nylon),3201PA-F Nylon,1.07,,,,,,,Drone - Camera box with gear mount 
