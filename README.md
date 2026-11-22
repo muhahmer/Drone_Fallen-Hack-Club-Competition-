@@ -1,5 +1,5 @@
 # The Racing Drone
-> Total Cost to Manufacture: 575 USD
+> Total Cost to Manufacture: 522 USD
 
 ## About My Project
 
@@ -33,26 +33,3 @@ The Reason I made this goes back many years to when I was a young kid (around 6 
 - Custom Single Hand ESP Controller
 - Motion Assisted Dynamic Tiltable Screen
 - GPS Telemetry and Safety Functions
-
-  ### Controller Pin layout
-  Joystick:
-  - X axis connected to pin 32 of ESP
-  - Y axis connected to pin 33 of ESP
-  - Joystick Button connected to pin 25 of ESP
-
- Rotary Encoder 1 (Screen tilt controller 1):
-  - Rotation Counter connected to pin 26 of ESP
-  - Direction Counter connected to pin 27 of ESP
-  - Rotary Encoder button connected to pin 12 of ESP
-
- Rotary Encoder 2 (Screen tilt controller 2) :
-  - Rotation Counter connected to pin 19 of ESP
-  - Direction Counter connected to pin 23 of ESP
-  - Rotary Encoder button connected to pin 14 of ESP 
-
- Rotary Encoder 3 (Camera tilt controller)
-  - Rotation Counter Connected to pin 16 of ESP 
-  - Direction Counter connected to pin 17 of ESP
-  - Rotary Encoder button connected to pin 4 of ESP  
-  
-  #### Drone Pin Layout
