@@ -25,6 +25,9 @@ The Reason I made this goes back many years to when I was a young kid (around 6 
 <img width="691" height="372" alt="image" src="https://github.com/user-attachments/assets/60d64795-39d2-4f5c-9e6c-03d4419d583e" />
 <img width="758" height="494" alt="image" src="https://github.com/user-attachments/assets/8beeda98-6dcd-460f-9722-b88b2d37cfbc" />
 
+> Full view
+<img width="1327" height="739" alt="image" src="https://github.com/user-attachments/assets/2653242d-841e-4f88-b0af-e4b485fd1a89" />
+
 
 
 ### Key Features
