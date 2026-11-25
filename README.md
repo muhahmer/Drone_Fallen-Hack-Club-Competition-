@@ -4,7 +4,9 @@
 ## About My Project
 
 Drone Folder contains 3D files, PCB files and code.
+
 Controller Folder contains 3D files, PCB files and code.
+
 Master BOM.csv contains bom for both the controller and drone combined.
 
 #### What Is My Project? 
