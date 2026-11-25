@@ -1,5 +1,5 @@
 # The Racing Drone
-> Total Cost to Manufacture: 827 USD
+> Total Cost to Manufacture: 827 USD. Total Time Spent on Project: 62h 18min
 
 ## About My Project
 
@@ -31,19 +31,25 @@ The Reason I made this goes back many years to when I was a young kid (around 6 
 
 
 ### Key Features
-  Key Features 
+
 - High quality FPV Camera
+- High precision Camera Control with 60 degrees turn angle 
 - Custom Single Hand ESP Controller
 - Motion Assisted Dynamic Tiltable Screen
-- GPS Telemetry and Safety Functions
+- GPS location, tracking, stats and Safety Functions
+- RTH - Return to home function
+- Anti Collision system (laser distance sensors)
+- Dual Custom PCB - no unnecessary features.
 
 ### Extra Details and Budget Justification 
 The receiver that is being used in the project can also be used as a transmitter when libraries are added. The receiver has full capability to work as a transmitter and will work seamlessly with the rest of the sytem.
 
 #### Expenses Justification
 
-PCB Expenses  - PCB soldering is required due to the fact this project involves chips where they are very delicate. Personally I am not good at soldering and I don't want this reason to mess up the entire project. 
+PCB Expenses - One key feature that sends the price of this projects PCB manufacturing high is the soldering cost. Due to the fact that this project involves some delicate chip soldering it has to be soldered through the PCB manufactures to prevent short circuit and gaps. Personally I am not that good at soldering and this should in any way or form be the reason that this project fails.
 
-Shipping cost - Their is high shipping cost due to the fact that the purchases are being made from multiple sources. The reason purchases are being made from different manufactures are: not every seller has every seller has the exact component in their store and because this project requires                          authentic parts. When buying parts it is vital that they are authentic to prevent waste of money or loss of component capability. I have had experience when I bought components of Temu, which were clones, and they came out as really bad clones. The chips did not work properly, I had                   to download excess amount of libraries to try and make it work and it glitched a lot.
+Shipping Cost - Shipping cost for this project is high, higher than it should be, but their are reasons why it is. Ordering from multiple retailers quickly adds up shipping cost and since Qatar is a company with bad shipping rates the cost gets high. The reason of buying from different retailers is due to parts. Firstly most retailers that sell authentic parts don't have every part so to buy authentic parts for this project I have had to go around and find some from authentic retailers. Secondly buying authentic parts are vital, without them this project could be sent to the bin. I have had past experience where I purchased some components from Temu to build a project. The developer board I got was a fake clone and it did not properly function, crashed and made it a nightmare to work with. In addition to clone problems they also require for the user to download excess amounts of libraries to make the board compatible with the normal software.
 
-3D printing   - Their is a medium high amount of 3D printing cost. This is not due to the filament, the filament chosen for this project has been the cheapest it can be while maintaining a high standard. For the drone the filament being used is SLS 3201PA-F Nylon due to its properties: it is light                    weight, strong and impact resistant. Using this filament prevents drone damage in test conditions.
+3D Printing - Their is a low to medium 3D printing cost. The filament that is being used is the best selection possible based on its qualities and cost. For the Controller there are three filaments that are being used 9600 Resin, TPU plastic and a very small amount of LEDO 6060 Resin. 9600 Resin is extremely cheap for 3D printing while providing good quality. LEDO 6060 is also extremely cheap for printing and the only reason it is being used is because for some very small parts 9600 Resin wasn't able to be used so it was replaced with LEDO 6060 Resin. TPU plastic is a type of rubbery plastic, it provides softness and grip to the handle while also having a low cost. For the Drone itself their is only one filament that is being used 3201-F Nylon. The only reason this filament is being used is due to its properties: light weight and durability. This filament is also cheap. When I asked google about the filament and the cost and the volume Google responded with saying I have a really good price and would consider the controller as Ultra-Cheap to Cheap and for the drone it would consider it as also Ultra-Cheap to Cheap.
+
+
