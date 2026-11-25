@@ -1,5 +1,5 @@
 # The Racing Drone
-> Total Cost to Manufacture: 827 USD. Total Time Spent on Project: 62h 18min
+> Total Cost to Manufacture: 827 USD. Total Time Spent on Project: 63h 46min
 
 ## About My Project
 
